@@ -1,9 +1,9 @@
 {
     "name": "com",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "public": true,
     "dependencies": {
-        "jasmine-node": "1.0.*"
+        "jasmine-node": "1.0.x"
     },
     "repository": {
         "type": "git",
