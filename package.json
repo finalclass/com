@@ -1,8 +1,12 @@
 {
-    "name": "com"
-  , "version": "0.0.2"
-  , "public": true
-  , "dependencies": {
-      "jasmine-node": "1.0.*"
-  }
+    "name": "com",
+    "version": "0.0.3",
+    "public": true,
+    "dependencies": {
+        "jasmine-node": "1.0.*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/finalclass/com.git"
+    }
 }
