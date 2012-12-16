@@ -1,7 +1,7 @@
 {
     "name": "com"
   , "version": "0.0.1"
-  , "private": true
+  , "public": true
   , "dependencies": {
       "jasmine-node": "*"
   }
